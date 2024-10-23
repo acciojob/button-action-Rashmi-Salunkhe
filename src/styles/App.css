@@ -1,1 +1,13 @@
 /* Your CSS code here. */
+/* ONS */
+*{
+    margin: 25px; 
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
